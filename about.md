@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Información
 permalink: /about/
 ---
 
-Some information about you!
+Alberto Gustavo Colomo Nieto es un artista con varias publicaciones.
 
-### More Information
+### Más Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Entre sus obras; cabe destacar "Aquellos días fuera del nido", ya a la venta en la plataforma de Amazon, tanto en formato E-book como en tapa blanda.
+https://www.amazon.es/dp/B098LJD35D
 
-### Contact me
+### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+Próximamente...
