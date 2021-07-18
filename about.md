@@ -13,3 +13,5 @@ Alberto Gustavo Colomo Nieto es un artista con varias publicaciones. Entre sus o
 Aunque ahora tiene como preferencia la literatura, cabe remarcar que no es su único lenguaje artístico, ya que también ha dibujado, diseñado y pintado varias obras de interés.
 
 ### Contáctame
+
+Próximamente...
