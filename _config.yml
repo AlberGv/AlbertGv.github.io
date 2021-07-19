@@ -36,7 +36,7 @@ comment-read:
 https://docs.google.com/spreadsheets/d/1Wkjpuiqa0egUKmjOS7h8rSbEeCu_9u6h2-8YeVVPNgk
 comment-post: 
 https://docs.google.com/forms/d/e/1FAIpQLSfYpPlEQXxn8_4A50UQX8UFTC_7J3LHq2r6y3MKoIrFXva3QQ
-comment-post-fields: [ entry.1915120975, entry.1996282540, entry.298122448]
+comment-post-fields: [entry.1915120975, entry.1996282540, entry.298122448]
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
