@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Información
+title: Sobre el autor
 permalink: /about/
 ---
 
-Alberto Gustavo Colomo Nieto es un artista con varias publicaciones. Entre sus obras; cabe destacar "Aquellos días fuera del nido", ya a la venta en la plataforma de Amazon, tanto en formato E-book como en tapa blanda.
+Alberto Gustavo Colomo Nieto es un artista con varias publicaciones. 
+
+Entre sus obras; cabe destacar "Aquellos días fuera del nido", ya a la venta en la plataforma de Amazon, tanto en formato E-book como en tapa blanda.
 
 [Enlace a la página de venta](https://www.amazon.es/dp/B098LJD35D)
 
@@ -12,6 +14,6 @@ Alberto Gustavo Colomo Nieto es un artista con varias publicaciones. Entre sus o
 
 Aunque ahora tiene como preferencia la literatura, cabe remarcar que no es su único lenguaje artístico, ya que también ha dibujado, diseñado y pintado varias obras de interés.
 
-### Contáctame
+### Contáctame...
 
-Próximamente...
+Escribe un comentario en cualquiera de las entradas que vaya publicando.
