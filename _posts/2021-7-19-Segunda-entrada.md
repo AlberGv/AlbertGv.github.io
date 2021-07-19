@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡Bienvenid@!
+title: Segunda entrada
 ---
 
 Entrada de prueba.
