@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tercero
+title: Tercera entrada
 ---
 
-sigo probando
+sigo probando y probando
