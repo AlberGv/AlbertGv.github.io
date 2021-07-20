@@ -29,7 +29,7 @@
 		var date = new Date(stringDate);
 		var dateOptions = { day: 'numeric', month: 'numeric', year: 'numeric'};
 		var timeOptions = { hour: 'numeric', minute: 'numeric'};
-		return `${date.toLocaleDateString("es-es", dateOptions)}    ${date.toLocaleTimeString("es-es", timeOptions)}`;
+		return `${date.toLocaleDateString("es-es", dateOptions)}  a las  ${date.toLocaleTimeString("es-es", timeOptions)}`;
 	};
 
 	/* Called when the comments have been loaded or relaoded.
