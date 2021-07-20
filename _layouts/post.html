@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    {{ page.date | date: "%d/%m/%y %H:%M" }}
+    {{ page.datetime | datetime: "%d/%m/%y %H:%M" }}
   </div>
 
   {% include comment-section.html url=page.url %}
