@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Sobre "Aquellos días fuera del nido"
+title: Sobre "Aquellos días fuera del nido"
 ---
 
 Hola,
