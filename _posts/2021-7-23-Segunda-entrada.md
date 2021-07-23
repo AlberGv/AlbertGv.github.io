@@ -3,9 +3,7 @@ layout: post
 title: Sobre "Aquellos días fuera del nido"
 ---
 
-Hola,
-
-Quiero hablar un poco de la novela que he escrito más formalmente, para ello he creado esta entrada...
+Hola, quiero hablar un poco de la novela que he escrito más formalmente, para ello he creado esta entrada...
 
 Este septiembre, tengo pensado acudir a la biblioteca municipal Juan Pablo Forner de Mérida para concretar una fecha y organizar una pequeña presentación para el libro, con la intención también, de firmar de ejemplares.
 
