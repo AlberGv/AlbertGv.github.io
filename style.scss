@@ -20,7 +20,7 @@ html {
 body {
 	background: #FAF0E6;
   font: 18px/1.4 $helvetica;
-  color: #D2B48C;
+  color: #8B4513;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #D2B48C;
+  color: #8B4513;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #D2B48C;
 }
 
 p {
@@ -118,17 +118,17 @@ img {
 .date {
   font-size: 13px;
   font-style: italic;
-  color: $gray;
+  color: #D2B48C;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #D2B48C;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #D2B48C;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #D2B48C;
+  color: #8B4513;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #D2B48C;
   font-size: 16px;
 
   @include mobile {
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #D2B48C;
+    color: #8B4513;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -257,7 +257,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #D2B48C;
     font-size: 22px;
     font-style: italic;
   }
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #D2B48C;
 }
 
 footer {
