@@ -20,7 +20,7 @@ html {
 body {
 	background: #FAF0E6;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #D2B48C;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #D2B48C;
   font-weight: bold;
 
   line-height: 1.7;
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #D2B48C;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #D2B48C;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
