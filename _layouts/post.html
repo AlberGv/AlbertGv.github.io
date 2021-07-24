@@ -9,8 +9,8 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="published">
-    datetime="{{ page.date | date_format("%d/%m/%Y %H:%M") }}">{{page.date | date_format("%A, %B %e, %Y") }}
+  <div class="date">
+    Publicado el {{ page.date | date: "%d/%m/%Y." }}
   </div>
 
   {% include comment-section.html url=page.url %}
