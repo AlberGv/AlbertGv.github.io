@@ -11,7 +11,7 @@ He estado buscando distintas formas de hacerlo y esta me ha parecido la más ade
 
 ### Sobre el autor
 
-Para saber más sobre mí recomiendo visitar [esta página.](https://www.amazon.com/author/albergv)
+Para saber más sobre mí recomiendo visitar [esta página.](https://www.amazon.es/~/e/B09BB4R593)
 
 ### Contáctame...
 
