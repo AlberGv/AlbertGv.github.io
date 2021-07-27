@@ -1,21 +1,17 @@
 ---
 layout: page
-title: Sobre el autor
+title: Sobre el blog
 permalink: /about/
 ---
 
-Alberto Gustavo Colomo Nieto es un escritor con varias publicaciones; 
+He creado este blog para informar sobre las posibles novedades literarias que vaya publicando. 
 
-Entre sus obras, cabe destacar "Aquellos días fuera del nido", un libro de ciencia ficción y aventuras.
-
-Por otra parte, también se han publicado poemas y relatos breves a nombre de este autor, en editoriales como; Diversidad Literaria, Ojos verdes ediciones...
+He estado buscando distintas formas de hacerlo y esta me ha parecido la más adecuada, espero que sea de vuestro agrado.
 
 
+### Sobre el autor
 
-
-### Más Información
-
-Aunque es conocido por la literatura, cabe remarcar, que no es su único lenguaje artístico, ya que también ha dibujado, editado, diseñado y pintado varias obras de interés.
+Para saber más sobre mí recomiendo visitar [esta página.](https://www.amazon.com/author/albergv)
 
 ### Contáctame...
 
