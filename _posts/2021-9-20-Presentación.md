@@ -11,6 +11,6 @@ Aunque lo he mencionado previamente en una entrada anterior; para evitar confusi
 
 También quiero dar las gracias a los organizadores y a las personas que han participado ayudando a que puediera tener esta gran oportunidad.
 
-Próximamente, cuando se publique oficialmente, añadiré en esta misma entrada el cartel que ha preparado para el evento.
+Próximamente, cuando se publique oficialmente, añadiré en esta misma entrada el cartel que han preparado para el evento.
 
 Saludos.
