@@ -3,7 +3,7 @@ layout: post
 tittle: Presentación y firma de ejemplares
 ---
 
-Queridos lectores, finalmente me he enterado de que en la biblioteca Juan Pablo Forner de Mérida han decidido organizar en octubre un evento denominado "El mes literario".
+Buenos días, me complace anunciar que me he enterado de que en la biblioteca Juan Pablo Forner de Mérida han decidido organizar en octubre un evento denominado "El mes literario".
 
 Este evento, acogerá a varios autores que presentarán sus libros, entre los que yo estoy seleccionado. El día que presentaré mi libro "Aquellos días fuera del nido" será el **13 de octubre de 2021**, a las **19:00h** en la **tercera planta**. 
 
