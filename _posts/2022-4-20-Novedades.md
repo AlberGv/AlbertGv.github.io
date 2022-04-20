@@ -9,7 +9,7 @@ title: Novedades día del libro
 <br />
 Queridos lectores, anuncio que he rebajado los precios del libro (tanto en papel como ebook) para que sea más asequible.
 <br />
-
+<br />
 
 <b>¡Ahora en formato papel valdrá 10,39€ y en ebook 2,99€! ¡Aprovecha esta oportunidad para regalártelo por el día del libro!</b>
 <br />
@@ -25,3 +25,5 @@ Y cambiando de tema, otra cosa que tengo que anunciar es que hace tiempo que he 
 <br />
 
 [Canal de Telegram](https://t.me/aquellosdias)
+<br />
+<br />
