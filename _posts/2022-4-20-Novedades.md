@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Novedades día del libro.
+title: Novedades día del libro
 ---
 
 
