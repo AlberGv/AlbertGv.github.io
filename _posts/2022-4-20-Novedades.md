@@ -5,8 +5,6 @@ title: Novedades día del libro
 
 
 
-<br />
-<br />
 Queridos lectores, anuncio que he rebajado los precios del libro (tanto en papel como ebook) para que sea más asequible.
 <br />
 <br />
